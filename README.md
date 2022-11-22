@@ -1,6 +1,32 @@
 # AppleIGB
 
-## If your NIC works with this driver, please post your configuration [here](https://github.com/donatengit/AppleIGB/discussions/6).
+## ⚠ This fork is deprecated
+
+### There is by [far better](https://github.com/mbarbierato/IntelMausi) effort by @mbarbierato (check branches there and correspondent links in discussions) to patch well-formed and stable IntelMausi codebase to support the whole I211 family (including X570 and TRX40). Discussions and issues will be closed soon. 🎉
+
+#### Kind thanks and kudos for testing, contribution and dedication to following people 🤗 (ASC order):
+- [aospiridonov](https://github.com/aospiridonov) 
+- [Cryptiiiic](https://github.com/Cryptiiiic)
+- [emaa10](https://github.com/emaa10)
+- [emanuelbalea](https://github.com/emanuelbalea)
+- [gentcys](https://github.com/gentcys)
+- [henkiewie](https://github.com/henkiewie)
+- [Leborgne23](https://github.com/Leborgne23) 
+- [llyonard](https://github.com/llyonard)
+- [marsqing](https://github.com/marsqing)
+- [mbarbierato](https://github.com/mbarbierato)
+- [meteoro](https://github.com/meteoro)
+- [Natedude](https://github.com/Natedude)
+- [NyaomiDEV](https://github.com/NyaomiDEV) 
+- [residentcode](https://github.com/residentcode)
+- [SapixIV](https://github.com/SapixIV)
+- [sharklatan](https://github.com/sharklatan)
+- [smartass08](https://github.com/smartass08)
+- [the3venthoriz0n](https://github.com/the3venthoriz0n)
+- [thedxrklord](https://github.com/thedxrklord) 
+- [yhl452493373](https://github.com/yhl452493373)
+
+<br />
 
 #### Intel onboard LAN driver for macOS. Courtesy of [hnak](https://www.insanelymac.com/forum/profile/228503-hnak/?wr=eyJhcHAiOiJmb3J1bXMiLCJtb2R1bGUiOiJmb3J1bXMtY29tbWVudCIsImlkXzEiOjI3MzA3MywiaWRfMiI6MTc3NTc1Mn0=), refer to the [original post](https://www.insanelymac.com/forum/topic/273073-appleigbkext/) for more details.
 <br />
